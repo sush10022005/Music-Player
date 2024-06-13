@@ -1,0 +1,106 @@
+[
+    {
+      "title": "Death Bed",
+      "artist": "Powfu",
+      "album": "poems of the past",
+      "release-year": 2020,
+      "artwork": "https://samplesongs.netlify.app/album-arts/death-bed.jpg",
+      "url": "https://samplesongs.netlify.app/Death%20Bed.mp3",
+      "id": "1"
+    },
+    {
+      "title": "Bad Liar",
+      "artist": "Imagine Dragons",
+      "album": "origins",
+      "release-year": 2018,
+      "artwork": "https://samplesongs.netlify.app/album-arts/bad-liar.jpg",
+      "url": "https://samplesongs.netlify.app/Bad%20Liar.mp3",
+      "id": "2"
+    },
+    {
+      "title": "Faded",
+      "artist": "Alan Walker",
+      "album": "Faded",
+      "release-year": 2019,
+      "artwork": "https://samplesongs.netlify.app/album-arts/faded.jpg",
+      "url": "https://samplesongs.netlify.app/Faded.mp3",
+      "id": "3"
+    },
+    {
+      "title": "Hate Me",
+      "artist": "Ellie Goulding",
+      "album": "Brightest Blue",
+      "release-year": 2019,
+      "artwork": "https://samplesongs.netlify.app/album-arts/hate-me.jpg",
+      "url": "https://samplesongs.netlify.app/Hate%20Me.mp3",
+      "id": "4"
+    },
+    {
+      "title": "Solo",
+      "artist": "Clean Bandit",
+      "album": "What is love?",
+      "release-year": 2018,
+      "artwork": "https://samplesongs.netlify.app/album-arts/solo.jpg",
+      "url": "https://samplesongs.netlify.app/Solo.mp3",
+      "id": "5"
+    },
+    {
+      "title": "Without Me",
+      "artist": "Halsey",
+      "album": "Manic",
+      "release-year": 2020,
+      "artwork": "https://samplesongs.netlify.app/album-arts/without-me.jpg",
+      "url": "https://samplesongs.netlify.app/Without%20Me.mp3",
+      "id": "6"
+    },
+    {
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "album": "A Night at the Opera",
+        "release_year": 1975,
+        "artwork": "https://upload.wikimedia.org/wikipedia/en/9/9f/Bohemian_Rhapsody.png",
+        "genre": "Rock",
+        "url": "https://drive.google.com/file/d/0B-hlyylI1d0Xc2ZJVE9wTWViLVk/view?usp=sharing&resourcekey=0-0GxtFzJvv8DrvrbvkK_24g",
+        "id": "7"
+    },
+    {
+        "title": "Imagine",
+        "artist": "John Lennon",
+        "album": "Imagine",
+        "release_year": 1971,
+        "artwork": "https://upload.wikimedia.org/wikipedia/en/2/2a/Lennon_Imagine_Sleeve_1975.jpg",
+        "genre": "Pop",
+        "url": "https://drive.google.com/file/d/0ByPd360vKVYlZU5jWU5ISG1ReW0zdndaUDJfSkFRQQ/view?usp=sharing&resourcekey=0-pLhyA0fz5Hi9lzIRNCA9Og",
+        "id": "8"
+    },
+    {
+        "title": "Hotel California",
+        "artist": "Eagles",
+        "album": "Hotel California",
+        "release_year": 1976,
+        "artwork": "https://upload.wikimedia.org/wikipedia/en/2/20/Hotel_California_by_the_Eagles_US_vinyl_single.png",
+        "genre": "Rock",
+        "url": "https://drive.google.com/file/d/0Bw3f2rfLE-SbRGEyOXMzeExHbjg/view?usp=sharing&resourcekey=0-7Ib5hC5M6TVkqEZW_U1MSQ",
+        "id": "9"
+    },
+    {
+        "title": "Stairway to Heaven",
+        "artist": "Led Zeppelin",
+        "album": "Led Zeppelin IV",
+        "release_year": 1971,
+        "artwork": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Stairway_to_Heaven_by_Led_Zeppelin_US_promotional_single.png",
+        "genre": "Rock",
+        "url": "https://drive.google.com/file/d/0B4LOzioZvYiXeFhqaVhEX0NLYm8/view?usp=sharing&resourcekey=0-n9by50KJu-qh72jITQEaHg",
+        "id": "10"
+    },
+    {
+        "title": "Billie Jean",
+        "artist": "Michael Jackson",
+        "album": "Thriller",
+        "release_year": 1982,
+        "artwork": "https://static.stereogum.com/uploads/2020/07/Michael-Jackson-Billie-Jean-1593711568-520x520.jpg",
+        "genre": "Pop",
+        "url": "https://drive.google.com/file/d/0B4LOzioZvYiXcDdOeDZ5dE9pLUk/view?usp=sharing&resourcekey=0-dxw5tINbDc-kHmZSLXuB0Q",
+        "id": "11"
+    }
+  ]
